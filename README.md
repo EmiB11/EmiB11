@@ -6,7 +6,7 @@
 
 Actualmente estoy formándome como FullStack web developer en Henry 💻🤓.
 
-Disfruto aprendiendo y ampliando mis conocimientos de forma autodidacta 💻🤓,mi objetivo es formar parte de una empresa aportando mis conocimientos ,experiencia y valores para que siga creciendo y asi poder lograr un crecimiento personal y profesional. 
+Disfruto aprendiendo y ampliando mis conocimientos de forma autodidacta 💻🤓,mi objetivo es formar parte de una empresa aportando mis conocimientos ,experiencia y valores para que la empresa siga creciendo y asi poder lograr un crecimiento personal y profesional. 
 La comunicación y el trabajo en equipo es para mí esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a nuevos desafíos, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
 
