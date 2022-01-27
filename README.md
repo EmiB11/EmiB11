@@ -9,7 +9,6 @@ Actualmente estoy formándome como FullStack web developer en Henry 💻🤓.
 Disfruto aprendiendo y ampliando mis conocimientos de forma autodidacta 💻🤓,mi objetivo es formar parte de una empresa aportando mis conocimientos ,experiencia y valores para que siga creciendo y asi poder lograr un crecimiento personal y profesional. 
 La comunicación y el trabajo en equipo es para mí esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a nuevos desafíos, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
-✅ Mis Skills: HTML, CSS, JavaScript, React JS, React-Redux, TypeScript, Bootstrap, Less, Node JS, Express, SQL, PostgreSQL, Sequelize, Git.
 
 ## Full stack web developer 🖥️
 
@@ -19,34 +18,37 @@ La comunicación y el trabajo en equipo es para mí esencial para poder crecer c
 ## 📍 Languages and Tools:
 
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <p>Visual Studio Code</p>
+  <span>Visual Studio Code</span>
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
- <p>HTML5</p>
+ <span >HTML5</span>
 <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- <p>CSS3</p>
+ <span >CSS3</span>
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <p>JavaScript</p>
+ <span>JavaScript</spana>
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- <p>React</p>
+ <span>React</span>
 <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
- <p>SQL</p>
+ <span>SQL</span>
 <img align="center" alt="PostgreSql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
- <p>PostgreSql</p>
+ <span>PostgreSql</span>
 <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
- <p>Git</p>
+ <span>Git</span>
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
- <p>GitHub</p>
- <img align="center" alt="Node" height="50" width="70"  src="./assets/node.png">
-  <p>Nodejs</p>
+ <span>GitHub</span>
+ <img align="center" alt="Node" width="26"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <span>Nodejs</apan>
+</br>
 </br>
 
-## 📍check my work
-
+## 📍check my work:
 ## [Videogames-App] 
 ### 🚀 Technologies: React - Redux - NodeJS- Express - PostgreSQL - Sequalize 
 
+<br />
 
-# 📍 Connect with me:
+
+
+## 📍 Connect with me:
 
 [<img align="center" alt="LinkedIn" width="110px" height="30px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="center" alt="email" width="100px" color="purple" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />][email]
