@@ -1,6 +1,6 @@
 
   
- <img src='./assets/hello_world.gif'>
+ <img src='./assets/hello_world.gif' height='350px' width='900px' alt='gif hello world'>
 
  ### Hi there, I'm Emiliano Barberis 👋
 
