@@ -42,8 +42,9 @@ La comunicación y el trabajo en equipo es para mí esencial para poder crecer c
 
 ## 📍check my work:
 ## [Videogames-App] 
-### 🚀 Technologies: React - Redux - NodeJS- Express - PostgreSQL - Sequalize 
-
+### 🚀 Technologies: React - Redux - NodeJS- Express - PostgreSQL - Sequelize - Css - Javascript
+## [TechShop-App]
+### 🚀 Technologies: React - Redux - NodeJS- Express - PostgreSQL - Sequelize - Firebase - Bootstrap - emailJs - Css - Javascript - Jwt 
 <br />
 
 
@@ -55,7 +56,8 @@ La comunicación y el trabajo en equipo es para mí esencial para poder crecer c
 
 [linkedin]: https://www.linkedin.com/in/emiliano-barberis-developer/
 [email]: mailto:emibarberis26@gmail.com
-[Videogames-App]:https://github.com/EmiB11/PI-Videogames-main
+[Videogames-App]:https://videogames-app-orpin.vercel.app/
+[TechShop-App]:https://fronted-pg.vercel.app/
 
 
 </div>
