@@ -16,27 +16,47 @@ La comunicación y el trabajo en equipo es para mí esencial para poder crecer c
 <br />
 
 ## 📍 Languages and Tools:
-
+<div >
 <img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <span>Visual Studio Code</span>
+ </div>
+ <div>
 <img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <span>HTML5</span>
+ </div>
+ <div>
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  <span>CSS3</span>
+ </div>
+ <div>
 <img  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <span>JavaScript</span>
+ </div>
+ <div>
 <img  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  <span>React</span>
+ </div>
+ <div>
 <img  alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <span>SQL</span>
+ </div>
+ <div>
 <img  alt="PostgreSql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
  <span>PostgreSql</span>
+ </div>
+ <div>
 <img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  <span>Git</span>
-<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ </div>
+ <div>
+<img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <span>GitHub</span>
+ </div>
+ <div>
  <img alt="Node" width="26"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <span>Nodejs</apan>
+ </div>
+
 </br>
 </br>
 
