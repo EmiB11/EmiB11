@@ -6,7 +6,6 @@ Desarrollo aplicaciones web funcionales, escalables y responsivas, participando 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emiliano%20Barberis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-barberis-developer/)
 [![Email](https://img.shields.io/badge/Email-emibarberis26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emibarberis26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-EmiB11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmiB11)
 
 ---
 
