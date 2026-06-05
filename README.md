@@ -91,6 +91,12 @@ Actualmente formo parte de Cloudnet Solutions, donde desarrollo y mantengo soluc
 
 ## Formación
 
+### Tecnicatura Superior en Desarrollo de Software
+
+**Buenos Aires Aprende** | 09/2024 - Actualidad
+
+Formación orientada al análisis, diseño, desarrollo, implementación y mantenimiento de soluciones de software, incorporando fundamentos de programación, bases de datos, arquitectura, testing y buenas prácticas para la construcción de aplicaciones modernas.
+
 ### FullStack Web Developer
 
 **Henry** | 09/2021 - 05/2022 | Córdoba, Argentina
