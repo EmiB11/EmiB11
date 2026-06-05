@@ -132,4 +132,4 @@ Formación terciaria orientada a la administración, gestión y control contable
 - **Ubicación:** Córdoba, Argentina
 - **Email:** [emibarberis26@gmail.com](mailto:emibarberis26@gmail.com)
 - **LinkedIn:** [emiliano-barberis-developer](https://www.linkedin.com/in/emiliano-barberis-developer/)
-- **GitHub:** [EmiB11](https://github.com/EmiB11)
+
